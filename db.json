@@ -1,11 +1,8 @@
 {
-  "posts": [
+  "login": [
     {
-      "id": 1,
-      "title": "hello"
+      "user": "Diana"
+      "pass": "miau"
     }
   ],
-  "profile": {
-    "name": "typicode"
-  }
 }
